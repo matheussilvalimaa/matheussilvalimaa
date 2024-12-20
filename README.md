@@ -35,10 +35,5 @@ I'm a passionate developer focused on building robust and scalable applications.
 - REST APIs
 
 ---
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)
-- 📧 [Email](mailto:your.email@example.com)
-
----
 
 Feel free to explore my profile and reach out if you’d like to collaborate or just chat about tech! 😄
