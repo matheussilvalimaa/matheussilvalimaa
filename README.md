@@ -8,7 +8,7 @@ I'm a passionate developer focused on building robust and scalable applications.
 - 🔭 I’m currently working on backend development and exploring new technologies.
 - 🌱 I’m always learning and improving my skills in **C#**, **Java**, and modern development practices.
 - 💬 Ask me about **backend development**, **object-oriented programming**, or anything tech-related.
-- 📫 How to reach me: [Your Email](silvalimamatheus@outlook.com) | [Your LinkedIn](https://linkedin.com/in/matheussilvalima)
+- 📫 How to reach me: [My Email](silvalimamatheus@outlook.com) | [My Linkedln](https://linkedin.com/in/matheussilvalima)
 
 ---
 
