@@ -1,6 +1,6 @@
 ![Loading Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGM5amZlZXQ5OTNsbGUxeWE4NHp2eXQyYzhvZjd0Nnk0bml5OGkxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif)
 
-# Hi there! 👋 Welcome to my GitHub Profile
+# Hello there! 👋 Welcome to my profile
 
 I'm a passionate developer focused on building robust and scalable applications. With expertise in **C#** and **Java**, I enjoy solving complex problems and creating meaningful solutions. Here, you'll find my projects and experiments.
 
