@@ -4,7 +4,6 @@
 
 I'm a passionate developer focused on building robust and scalable applications. With expertise in **C#**, I enjoy solving complex problems and creating meaningful solutions. Here, you'll find my projects and experiments.
 
----
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on backend development and exploring new technologies.
