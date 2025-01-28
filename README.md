@@ -13,16 +13,14 @@ I'm a passionate developer focused on building robust and scalable applications.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies
 ### Programming Languages:
-- **C#**: Backend development with **ASP.NET**, desktop applications with **Windows Forms** and **WPF**.
-- **Java**: Applications using **Spring Boot**, **Maven**, and general-purpose programming.
+- **C#**: Backend development with **ASP.NET**, desktop applications with **Windows Forms** and APIs development.
+- **JavaScript**: Web and backend development utilizing Node.js and Express.js.
 
 ### Frameworks & Tools:
-- **.NET Core** / **.NET Framework**
-- **Spring Boot** (Java)
-- **Entity Framework** / **Hibernate**
-- **Maven**
+- **Entity Framework**
+- **Express.js**
 - **Git** / **GitHub**
 - **Docker**
 - **Linux Server**
@@ -30,9 +28,6 @@ I'm a passionate developer focused on building robust and scalable applications.
 ### Databases:
 - **SQL Server**
 - **PostgreSQL**
-
-### Other Skills:
-- REST APIs
 
 ---
 
