@@ -1,8 +1,8 @@
-![Loading Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTB5N2twZDRhODZxaXc5eDdocnJ3ZDRkYW94M3V2ZWZpcXVuOHd6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
-
 # Hello there! 👋
 
 I'm a passionate developer focused on building robust and scalable applications. With expertise in **C#**, I enjoy solving complex problems and creating meaningful solutions. Here, you'll find my projects and experiments.
+
+![Loading Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTB5N2twZDRhODZxaXc5eDdocnJ3ZDRkYW94M3V2ZWZpcXVuOHd6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
