@@ -26,7 +26,7 @@ I'm a passionate developer focused on building robust and scalable applications.
 
 ## ⚙️ GitHub Analytics
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" alt="GitHub stats" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussilvalimaa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=matheussilvalimaa&show_icons=true&theme=dark" alt="GitHub stats" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussilvalimaa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheussilvalimaa&theme=dark)](https://git.io/streak-stats)
