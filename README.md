@@ -30,12 +30,6 @@ I'm Matheus, nice to meet you. Currently, i am a developer focused on building r
 
 ---
 
-## 👀 Visitor Counting
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmatheussilvalimaa%2Fmatheussilvalimaa&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg)](https://hits.seeyoufarm.com)
-
----
-
 Feel free to explore my profile and reach out if you’d like to collaborate or just chat about tech! 😄
 
 <img 
