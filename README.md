@@ -1,5 +1,5 @@
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Sou%2%20Matheus%20Lima&descAlignY=60&descAlign=50" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Eu%20Sou%20Matheus%20Lima&descAlignY=60&descAlign=50" 
   alt="header wave"
 />
 
