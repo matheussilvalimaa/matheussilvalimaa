@@ -14,20 +14,28 @@ I'm a passionate developer focused on building robust and scalable applications.
 ---
 
 ## 🛠️ Technologies
-### Programming Languages:
-- **C#**: Backend development with **ASP.NET**, desktop applications with **Windows Forms** and APIs development.
-- **JavaScript**: Web and backend development utilizing Node.js and Express.js.
+- ![C# Badge](https://img.shields.io/badge/C%23-Informational?style=flat&logo=CSharp&logoColor=white&color=blue)
+- ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![JavaScript Badge](https://img.shields.io/badge/JavaScript-Informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
+- ![Docker Badge](https://img.shields.io/badge/Docker-Informational?style=flat&logo=docker&logoColor=white&color=blue)
+- ![SQL Server Badge](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+- ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### Frameworks & Tools:
-- **Entity Framework**
-- **Express.js**
-- **Git** / **GitHub**
-- **Docker**
-- **Linux Server**
+---
 
-### Databases:
-- **SQL Server**
-- **PostgreSQL**
+## ⚙️ GitHub Analytics
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" alt="GitHub stats" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | ------------- |
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheussilvalimaa&theme=dark)](https://git.io/streak-stats)
+
+---
+
+## 👀 Contador de Visitas
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=matheussilvalimaa.matheussilvalimaa)
 
 ---
 
