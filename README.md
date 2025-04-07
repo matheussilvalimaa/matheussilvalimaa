@@ -3,7 +3,7 @@
   alt="footer wave"
 />
 
-#<h1 align="center">Hello there!</h1>
+<h1 align="center">Hello there!</h1>
 
 I'm a passionate developer focused on building robust and scalable applications. With expertise in **C#**, I enjoy solving complex problems and creating meaningful solutions. Here, you'll find my projects and experiments.
 
