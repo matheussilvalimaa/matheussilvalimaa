@@ -1,7 +1,4 @@
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=&desc 
-  alt="header wave"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:0a2e73&height=200&section=header" alt="Wave Animation" />
 
 # Hello there! 👋
 
