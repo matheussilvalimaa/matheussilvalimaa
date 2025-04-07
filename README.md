@@ -3,9 +3,9 @@
   alt="footer wave"
 />
 
-<h1 align="center">Hello there!</h1>
+<h1 align="center">Hello, World! 🌎</h1>
 
-I'm a passionate developer focused on building robust and scalable applications. With expertise in **C#**, I enjoy solving complex problems and creating meaningful solutions. Here, you'll find my projects and experiments.
+I'm Matheus, nice to meet you. Currently i'm a developer focused on building robust and scalable applications, using mainly **C#** to solve complex problems and create meaningful solutions. Here, you'll find my projects and experiments.
 
 ---
 
@@ -17,7 +17,7 @@ I'm a passionate developer focused on building robust and scalable applications.
 ---
 
 ## 🛠️ Technologies
-![C# Badge](https://img.shields.io/badge/ASP.NET-Informational?style=flat&logo=.net&logoColor=white&color=purple) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-Informational?style=flat&logo=JavaScript&logoColor=white&color=yellow) ![Docker Badge](https://img.shields.io/badge/Docker-Informational?style=flat&logo=docker&logoColor=white&color=blue) ![SQL Server Badge](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![C# Badge](https://img.shields.io/badge/ASP.NET-Informational?style=flat&logo=.net&logoColor=white&color=purple) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-Informational?style=flat&logo=JavaScript&logoColor=white&color=yellow) ![Docker Badge](https://img.shields.io/badge/Docker-Informational?style=flat&logo=docker&logoColor=white&color=blue) ![SQL Server Badge](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
