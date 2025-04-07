@@ -5,7 +5,7 @@
 
 <h1 align="center">Hello, World! 🌎</h1>
 
-I'm Matheus, nice to meet you. Currently, i am a developer focused on building robust and scalable applications, using mainly **C#** to solve complex problems and create meaningful solutions. Here, you'll find my projects and experiments.
+Hello, I'm Matheus. It's a pleasure to meet you. I am a developer dedicated to building robust and scalable applications, primarily using C# to tackle complex challenges and craft meaningful solutions. Here, you'll find a collection of my projects and experiments.
 
 ---
 
