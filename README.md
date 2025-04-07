@@ -5,7 +5,7 @@
 
 <h1 align="center">Hello, World! 🌎</h1>
 
-I'm Matheus, nice to meet you. Currently i'm a developer focused on building robust and scalable applications, using mainly **C#** to solve complex problems and create meaningful solutions. Here, you'll find my projects and experiments.
+I'm Matheus, nice to meet you. Currently, i am a developer focused on building robust and scalable applications, using mainly **C#** to solve complex problems and create meaningful solutions. Here, you'll find my projects and experiments.
 
 ---
 
@@ -30,9 +30,9 @@ I'm Matheus, nice to meet you. Currently i'm a developer focused on building rob
 
 ---
 
-## 👀 Contador de Visitas
+## 👀 Visitor Counting
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=matheussilvalimaa.matheussilvalimaa)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmatheussilvalimaa%2Fmatheussilvalimaa&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg)](https://hits.seeyoufarm.com)
 
 ---
 
