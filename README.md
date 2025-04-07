@@ -1,8 +1,11 @@
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Eu%20sou%20Larissa%20Albuquerque&descAlignY=60&descAlign=50" 
+  alt="header wave"
+/>
+
 # Hello there! 👋
 
 I'm a passionate developer focused on building robust and scalable applications. With expertise in **C#**, I enjoy solving complex problems and creating meaningful solutions. Here, you'll find my projects and experiments.
-
-![Loading Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTB5N2twZDRhODZxaXc5eDdocnJ3ZDRkYW94M3V2ZWZpcXVuOHd6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
@@ -14,13 +17,7 @@ I'm a passionate developer focused on building robust and scalable applications.
 ---
 
 ## 🛠️ Technologies
-- ![C# Badge](https://img.shields.io/badge/C%23-Informational?style=flat&logo=CSharp&logoColor=white&color=blue)
-- ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- ![JavaScript Badge](https://img.shields.io/badge/JavaScript-Informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
-- ![Docker Badge](https://img.shields.io/badge/Docker-Informational?style=flat&logo=docker&logoColor=white&color=blue)
-- ![SQL Server Badge](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-- ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![C# Badge](https://img.shields.io/badge/C%23-Informational?style=flat&logo=CSharp&logoColor=white&color=blue) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-Informational?style=flat&logo=JavaScript&logoColor=white&color=yellow) ![Docker Badge](https://img.shields.io/badge/Docker-Informational?style=flat&logo=docker&logoColor=white&color=blue) ![SQL Server Badge](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
@@ -40,3 +37,8 @@ I'm a passionate developer focused on building robust and scalable applications.
 ---
 
 Feel free to explore my profile and reach out if you’d like to collaborate or just chat about tech! 😄
+
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" 
+  alt="footer wave"
+/>
