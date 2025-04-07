@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:0a2e73&height=200&section=header" alt="Wave Animation" />
 
-# Hello there! 👋
+#                                                                                   Hello there! 👋
 
 I'm a passionate developer focused on building robust and scalable applications. With expertise in **C#**, I enjoy solving complex problems and creating meaningful solutions. Here, you'll find my projects and experiments.
 
